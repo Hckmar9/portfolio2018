@@ -3,8 +3,10 @@
 	"version": "1.0.0",
 	"description": "Responsive portfolio 2018",
 	"main": "index.js",
+	"homepage": "https://terediaz.github.io/portfolio2018",
 	"scripts": {
-		"sass": "node-sass -w  scss/ -o dist/css/ --recursive"
+		"sass": "node-sass -w  scss/ -o dist/css/ --recursive",
+		"deploy": "gh-pages -d dist"
 	},
 	"keywords": [ "portfolio", "2018", "hckmar" ],
 	"author": "hckmar",
