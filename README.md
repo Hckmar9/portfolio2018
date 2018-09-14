@@ -1,8 +1,6 @@
 # Porftolio 2018
 > I updated my personal page.
 
-One to two paragraph statement about your product and what it does.
-
 ![](header.png)
 
 ## What I used
